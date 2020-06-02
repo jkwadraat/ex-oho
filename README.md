@@ -1,4 +1,4 @@
-# Webdesign met HTML5: Examen OHO - 20 maart 2020
+# Examen HTML5 (OHO): 12 juni 2020 - 8u30
 Dit zijn de **startbestanden** voor het **examen Webdesign met HTML5** in **1OHO** van de Thomas More Hogeschool (campus Geel).
 
 <p align="center">
